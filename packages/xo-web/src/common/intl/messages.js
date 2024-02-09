@@ -590,6 +590,9 @@ const messages = {
   preferNbd: 'Use NBD protocol to transfer disk if available',
   preferNbdInformation: 'A network accessible by XO or the proxy must have NBD enabled',
   nbdConcurrency: 'Number of NBD connexion per disk',
+  deltaComputationMode: 'Delta computation mode',
+  deltaComputationModeSnapshot: 'Snapshot comparison',
+  deltaComputationModeCbt: 'Change Block Tracking',
 
   // ------ New Remote -----
   newRemote: 'New file system remote',
