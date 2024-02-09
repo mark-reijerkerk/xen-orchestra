@@ -42,7 +42,7 @@
 
 - @xen-orchestra/backups patch
 - @xen-orchestra/fs patch
-- @xen-orchestra/xapi patch
+- @xen-orchestra/xapi minor
 - @vates/nbd-client minor
 - vhd-lib patch
 - xo-server minor
