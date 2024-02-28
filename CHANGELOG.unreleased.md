@@ -13,7 +13,6 @@
 - [Home & REST API] `$container` field of an halted VM now points to a host if a VDI is on a local storage [Forum#71769](https://xcp-ng.org/forum/post/71769)
 - [Size Input] Ability to select two new units in the dropdown (`TiB`, `PiB`) (PR [#7382](https://github.com/vatesfr/xen-orchestra/pull/7382))
 
-
 ### Bug fixes
 
 > Users must be able to say: “I had this issue, happy to know it's fixed”
@@ -43,7 +42,6 @@
 - @xen-orchestra/backups patch
 - @xen-orchestra/fs patch
 - @xen-orchestra/xapi minor
-- @vates/nbd-client minor
 - vhd-lib patch
 - xo-server minor
 - xo-server-audit patch
